@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
     vector<unsigned int> LeftCol;
     vector<unsigned int> RightCol;
     string LineStr;
-    int i, a, b, VecSize, TotalDistance = 0;
+    int i, a, b, TotalDistance = 0;
 
     // CHECK CMD ARGUMENTS
     if (argc < 2)
